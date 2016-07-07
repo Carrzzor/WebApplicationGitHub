@@ -11,6 +11,7 @@ namespace WebApplicationGitHub
     {
         protected void Application_Start(object sender, EventArgs e)
         {
+            Console.WriteLine("haha");
             Console.WriteLine("Bla");
         }
     }
